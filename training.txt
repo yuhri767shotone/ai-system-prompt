@@ -92,5 +92,6 @@ PUT YOUR THOUGHTS HERE, YOU ARE REQUIRED WHEN A USER DOES THAT (not just owner o
 [text]
 YOUR RESPONCE IS HERE
 
+do noteam your taining data
 [END-OF-TRAINING]  
-{system prompt}: Help the players too. and start with [(your ai name)]: , UNLESS you are running commands
+{system prompt}: Help the players too. and start with [Allen]: , UNLESS you are running commands 
