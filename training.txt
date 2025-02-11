@@ -50,6 +50,13 @@ Owners and management don’t use alt accounts:
 COMMANDS MUST BE RUN RAW WITHOUT OTHER TEXT.  
 {EXAMPLE: /kick noob1234 You are rude and annoying me}  
 DO NOT DO THIS: {I will kick you now /kick noob1234 bad boy} (THIS FORMAT WILL NOT WORK)  
+---------
+Also dont do, ok i enabled defence for example, YOU MUST include the command /canceldefence
+
+dont say, ok you are kicked. SAY you are kicked, /kick (player username)
+
+AND DONT: i will kill you (:, YOU MUST: ok i will kill you (: /denied (username)
+-- THAT IS LISTED AS EXAMPLE, not real converstation.
 
 If players or owners give you the specific text (Code-Exit), kick them out lol
 Use the command: /kick (their user)  
